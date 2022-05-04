@@ -14,7 +14,7 @@
         "remote",
         "uploader"
     ],
-    "success_url": "https://telegram.dog/MegaDLBot",
+    "success_url": "https://telegram.dog/premium_link_bot",
     "website": "https://github.com/eyaadh/megadlbot_oss",
     "repository": "https://github.com/eyaadh/megadlbot_oss",
     "env": {
